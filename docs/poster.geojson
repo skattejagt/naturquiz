@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Navn": "Post 1",
+        "Spørgsmål": "Hvilken blomst er månedens blomst i april ?",
+        "Svar 1": "Blå anemone",
+        "Svar 2": "Mælkebøtte",
+        "Svar 3": "Trævlekrone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.254527568817139,
+          55.57446301869603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Navn": "Post 2",
+        "Spørgsmål": "Hvor mange gæs kan opleves hen over vinteren ved Tissø?",
+        "Svar 1": 100,
+        "Svar 2": "10.000",
+        "Svar 3": "100.000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.256673336029053,
+          55.574384168633195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Navn": "Post 3",
+        "Spørgsmål": "Hvilken ase-gud er Tissø opkaldt efter?",
+        "Svar 1": "Tyr",
+        "Svar 2": "Odin",
+        "Svar 3": "Heimdal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.258583068847656,
+          55.57397171957066
+        ]
+      }
+    }
+  ]
+}
