@@ -1,0 +1,38 @@
+html,
+body {
+  margin: 20;
+  padding: 20;
+  background-image: url("./dsc_6185.jpg");
+}
+
+canvas {
+  display: block;
+
+}
+
+#hej {
+  font-family: "Arial", Sans, sherif;
+  color: pink;
+  font-size: 40px;
+}
+
+#infoTekst {
+  font-family: "Arial", Sans, sherif;
+  color: pink;
+  font-size: 25px;
+}
+
+#knapper {
+  font-family: "Arial", Sans, sherif;
+  color: green;
+
+}
+
+.button{
+  display: block;
+  max-width: 300px;
+  border: 3px solid green;
+  border-radius: 50%;
+  padding: 10px;
+  margin: auto;
+}
