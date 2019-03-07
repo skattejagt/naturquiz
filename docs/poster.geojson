@@ -8,7 +8,8 @@
         "Sprg": "Hvilken blomst er månedens blomst i April?",
         "Svar1": "Blå anemone",
         "Svar2": "Mælkebøtte",
-        "Svar3": "Trævlekrone"
+        "Svar3": "Trævlekrone",
+        "Rigtig": 1
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +26,8 @@
         "Sprg": "Hvor mange gæs kan der cirka opleves ved Tissø om vinteren?",
         "Svar1": 100,
         "Svar2": "10.000",
-        "Svar3": "100.000"
+        "Svar3": "100.000",
+        "Rigtig": 2
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +44,8 @@
         "Sprg": "Hvilken Asegud er Tissø opkaldt efter?",
         "Svar1": "Tyr",
         "Svar2": "Odin",
-        "Svar3": "Heimdal"
+        "Svar3": "Heimdal",
+        "Rigtig": 1
       },
       "geometry": {
         "type": "Point",
